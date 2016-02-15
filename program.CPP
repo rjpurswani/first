@@ -1,11 +1,12 @@
-#include<iostream>
-using namespace std;
+#include <iostream>
+
 int main()
 {
-cout<<"Hello World!"<<endl;
-int a=3,b=10;
-int c=a*b;
+ std::cout<<"Hello World!"<<endl;
+ int a=3,b=10;
+ int c=a*b;
 
-cout<<"Bye Bye!\n";
-return 0;
+ std::cout<<"Bye Bye!\n";
+ 
+ return 0;
 }
